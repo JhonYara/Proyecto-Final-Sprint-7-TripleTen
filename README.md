@@ -44,4 +44,5 @@ Se recomiendan planes de fidelización para los clientes jóvenes, y evitar la d
 ---
 ## 🚀 Cómo ejecutar el proyecto
 1. Clona el repositorio: `git clone https://github.com/JhonYara/Proyecto-Final-Sprint-7-TripleTen`
-3. Abre el notebook: `jupyter notebook notebook:ConnectaTel.ipynb`
+2. Abre el notebook: `jupyter notebook notebook:ConnectaTel.ipynb`
+3. **nota:** Los archivos fuente se encuentran en la carpeta `/datasets`.
